@@ -5,11 +5,12 @@ This is a "final" project for the training programe of big data analysis.
 2. Introduction:
 
 	2.1 Skills: The skills used including python, mongoDB, AWS, text mining (Machine Learning)
-      	2.2 Data:   Data collected from Taiwanese forum website named "wetalk", of its Political Category.
+      	
+	2.2 Data:   Data collected from Taiwanese forum website named "wetalk", of its Political Category.
 		    There are about 8000 posts in this category of the forum ranged from 2014-2018
 		    
 3.Observation :
 	20% of the posts get none comments,   
   if some specific topics and contents-- in which the wordings are attractive and touch people's mind to join their opinions.    
 
-4. Process: see attached file
+4. Process: see attached file "textmining.jpg"
